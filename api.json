@@ -1,0 +1,519 @@
+{
+  "category": "LOCATION",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/superstition-mountains",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    },
+    "cultural_sensitivity": {
+      "alert": true,
+      "note": "Apache sacred land. This repository documents legends and modern incidents with respect for Indigenous spiritual beliefs and territorial claims. Consult Apache Nation authorities before any on-site investigation."
+    }
+  },
+
+  "phenomenon": {
+    "id": "superstition-mountains",
+    "name": "Superstition Mountains",
+    "aliases": [
+      {
+        "name": "Superstitions",
+        "region": "Arizona, USA",
+        "meaning": "Common shortened name"
+      },
+      {
+        "name": "Ka Katak Tamorok",
+        "language": "Pima",
+        "meaning": "Crooked Top Mountain"
+      }
+    ],
+    "category": "LOCATION",
+    "subcategory": "Legends / Cursed Location",
+    "tags": [
+      "cursed-location",
+      "treasure-legend",
+      "missing-persons",
+      "sacred-site",
+      "apache",
+      "arizona",
+      "desert",
+      "mysterious-deaths",
+      "lost-mine"
+    ],
+    "status": "active",
+    "description": {
+      "summary": "An Arizona mountain range famous for the Lost Dutchman's Gold Mine legend, Apache sacred land beliefs, and numerous disappearances and mysterious deaths. A convergence of treasure hunting, Indigenous spiritual significance, and modern unexplained incidents.",
+      "full": "The Superstition Mountains are a rugged mountain range east of Phoenix, Arizona, that has become one of America's most legendary locations. The mountains are most famous for the Lost Dutchman's Gold Mine legend, allegedly discovered by German immigrant Jacob Waltz in the 1870s and never found since his death. Apache traditions consider the area sacred land and the dwelling place of the Thunder God, with warnings of curses upon those who disturb it. The area has been the site of numerous disappearances, mysterious deaths, and treasure hunter tragedies, including recent cases like Jesse Capen (2009). The convergence of Spanish conquistador legends, the Peralta massacre, Apache spiritual beliefs, and modern missing persons cases creates a complex tapestry of mystery. While harsh desert terrain and dangerous treasure-seeking explain many incidents, the cultural and spiritual significance—particularly to Apache nations—adds layers of meaning beyond simple misadventure. The Superstitions represent how legend, greed, tragedy, and sacred geography intertwine."
+    },
+    "etymology": {
+      "origin": "Named for the many legends and superstitions surrounding the mountains, particularly among Indigenous peoples and early settlers",
+      "meaning": "Mountains associated with supernatural beliefs and bad fortune",
+      "first_use": "19th century American settlers"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "LOCATION",
+      "type": "Legendary Site",
+      "subtype": "Cursed location / Sacred site / Treasure legend",
+      "variant": "American Southwest"
+    },
+    "related_phenomena": [
+      {
+        "id": "skinwalker-ranch",
+        "name": "Skinwalker Ranch",
+        "relationship": "similar",
+        "description": "Another location with Indigenous spiritual significance and modern mysteries"
+      },
+      {
+        "id": "bermuda-triangle",
+        "name": "Bermuda Triangle",
+        "relationship": "similar",
+        "description": "Location associated with disappearances"
+      },
+      {
+        "id": "oak-island",
+        "name": "Oak Island",
+        "relationship": "similar",
+        "description": "Another famous treasure legend location"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "location": {
+      "description": "Mountain range in central Arizona, east of Phoenix",
+      "country": "United States",
+      "region": "Arizona",
+      "state": "Arizona",
+      "coordinates": {
+        "latitude": 33.4587,
+        "longitude": -111.3244,
+        "precision": "approximate"
+      },
+      "area": {
+        "value": 650,
+        "unit": "square kilometers",
+        "confidence": "high"
+      }
+    },
+    "environmental": {
+      "terrain": "Rugged desert mountains, canyons, cliffs",
+      "climate": "Sonoran Desert climate, extreme heat, flash floods",
+      "hazards": [
+        "Extreme temperatures (120°F+ summer)",
+        "Dehydration risk",
+        "Flash floods",
+        "Rattlesnakes and scorpions",
+        "Difficult navigation",
+        "Limited water sources",
+        "Steep cliffs and canyons"
+      ],
+      "elevation": {
+        "min": 610,
+        "max": 1842,
+        "unit": "meters",
+        "peak": "Superstition Peak"
+      }
+    },
+    "phenomena_reported": [
+      {
+        "type": "Disappearances",
+        "description": "Numerous people have vanished in the mountains, particularly treasure hunters",
+        "frequency": "occasional",
+        "evidence_level": "documented"
+      },
+      {
+        "type": "Mysterious deaths",
+        "description": "Deaths under unusual circumstances, often treasure hunters",
+        "frequency": "occasional",
+        "evidence_level": "documented"
+      },
+      {
+        "type": "Alleged curse",
+        "description": "Apache tradition warns of curse on those who disturb the mountains",
+        "frequency": "traditional belief",
+        "evidence_level": "cultural"
+      },
+      {
+        "type": "Unexplained phenomena",
+        "description": "Reports of strange lights, sounds, and experiences",
+        "frequency": "rare",
+        "evidence_level": "anecdotal"
+      }
+    ]
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Localized to Superstition Mountains area, Arizona",
+      "continents": ["North America"],
+      "countries": ["United States"],
+      "regions": ["Arizona", "Sonoran Desert"]
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "1500s",
+        "circa": true,
+        "source": "Spanish conquistador era, Apache oral traditions older"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "1870s-1890s",
+          "description": "Lost Dutchman legend era, Jacob Waltz period"
+        },
+        {
+          "period": "1940s-1960s",
+          "description": "Mid-20th century treasure hunting boom"
+        },
+        {
+          "period": "2000s-present",
+          "description": "Modern disappearances and continued treasure hunting"
+        }
+      ]
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Apache sacred land traditions, Spanish conquistador gold legends, American frontier treasure mythology",
+      "earliest_accounts": "Apache oral traditions (centuries old), Spanish expeditions (1500s-1700s)",
+      "folklore_connections": "Lost mine legends, cursed treasure, Indigenous territorial curses"
+    },
+    "timeline": [
+      {
+        "date": "Pre-contact",
+        "event": "Apache sacred traditions",
+        "significance": "Mountains considered dwelling of Thunder God, sacred and dangerous",
+        "source": "Apache oral tradition"
+      },
+      {
+        "date": "1540s",
+        "event": "Spanish conquistador expeditions",
+        "significance": "Coronado's expedition searched for Seven Cities of Gold in region",
+        "source": "Spanish colonial records"
+      },
+      {
+        "date": "1848",
+        "event": "Peralta massacre (disputed)",
+        "significance": "Mexican Peralta family allegedly massacred by Apache while mining gold",
+        "source": "Legend, historical accuracy disputed"
+      },
+      {
+        "date": "1870s-1891",
+        "event": "Jacob Waltz claims mine",
+        "significance": "German immigrant 'Dutchman' allegedly discovers rich gold mine, launches legend",
+        "source": "Deathbed account and subsequent legend"
+      },
+      {
+        "date": "1891",
+        "event": "Jacob Waltz death",
+        "significance": "Dies without revealing mine location, legend intensifies",
+        "source": "Historical record"
+      },
+      {
+        "date": "1931",
+        "event": "Adolph Ruth disappearance/death",
+        "significance": "Treasure hunter found dead, headless (likely animal scavengers), fuels curse legend",
+        "source": "News reports, death certificate"
+      },
+      {
+        "date": "1940s-1960s",
+        "event": "Treasure hunting boom",
+        "significance": "Numerous expeditions, several deaths and disappearances",
+        "source": "News archives"
+      },
+      {
+        "date": "2009",
+        "event": "Jesse Capen disappearance",
+        "significance": "Denver man vanishes searching for Lost Dutchman, remains found 2012",
+        "source": "News reports, search and rescue"
+      },
+      {
+        "date": "2011",
+        "event": "Jesse Capen remains discovered",
+        "significance": "Remains found three years after disappearance, ruled accidental death",
+        "source": "Medical examiner, news reports"
+      }
+    ],
+    "modern_era": "The Superstition Mountains remain a destination for treasure hunters despite warnings and deaths. The Lost Dutchman State Park protects portions of the area. Modern search and rescue operations respond regularly to missing hikers and treasure seekers. Apache nations continue to assert spiritual significance and territorial rights."
+  },
+
+  "incidents": {
+    "statistics": {
+      "total_documented_deaths": 50,
+      "total_documented_disappearances": 30,
+      "treasure_hunters": 40,
+      "hikers": 25,
+      "other": 15,
+      "date_range": {
+        "earliest": "1848",
+        "latest": "2026"
+      }
+    },
+    "notable": [
+      {
+        "id": "superstitions-waltz-mine",
+        "name": "Jacob Waltz and the Lost Dutchman Mine",
+        "date": {
+          "value": "1870s-1891",
+          "precision": "approximate"
+        },
+        "location": {
+          "description": "Superstition Mountains, Arizona",
+          "country": "United States",
+          "region": "Arizona",
+          "coordinates": {
+            "latitude": 33.4587,
+            "longitude": -111.3244,
+            "precision": "approximate"
+          }
+        },
+        "description": "German immigrant Jacob Waltz (called 'Dutchman' from 'Deutsch') claimed to have found rich gold mine in Superstition Mountains. On his deathbed in 1891, he gave cryptic directions to the mine, which has never been conclusively located despite thousands of searchers. The legend has driven treasure hunting in the area for over 130 years.",
+        "evidence": [
+          "Waltz's deathbed account",
+          "Gold specimens he possessed",
+          "Conflicting treasure maps",
+          "Century of failed searches"
+        ],
+        "credibility": {
+          "rating": "disputed",
+          "factors": [
+            "Waltz did have gold",
+            "Deathbed accounts unreliable",
+            "No mine ever found",
+            "May have been salted claim or fabrication"
+          ],
+          "notes": "Whether real mine exists is uncertain, but legend is definitely real and has caused numerous deaths"
+        },
+        "featured": true
+      },
+      {
+        "id": "superstitions-capen-disappearance",
+        "name": "Jesse Capen Disappearance",
+        "date": {
+          "value": "2009-12-01",
+          "precision": "approximate"
+        },
+        "location": {
+          "description": "Superstition Mountains, Arizona",
+          "country": "United States",
+          "region": "Arizona",
+          "coordinates": {
+            "latitude": 33.4587,
+            "longitude": -111.3244,
+            "precision": "approximate"
+          }
+        },
+        "description": "Jesse Capen, 35, from Denver vanished while searching for the Lost Dutchman's Gold Mine. He was an experienced outdoorsman who had researched the legend extensively. His remains were found in November 2012, three years later, by a hiker. Death ruled accidental, likely from fall or exposure. Case illustrates ongoing danger of treasure hunting in harsh terrain.",
+        "evidence": [
+          "Vehicle found at trailhead",
+          "Remains discovered 2012",
+          "Personal effects",
+          "Medical examiner report"
+        ],
+        "credibility": {
+          "rating": "verified",
+          "factors": [
+            "Documented case",
+            "Remains identified",
+            "Official investigation",
+            "Accidental death ruling"
+          ],
+          "notes": "Tragic but explained death due to harsh terrain and treasure hunting obsession"
+        },
+        "featured": true
+      },
+      {
+        "id": "superstitions-peralta-massacre",
+        "name": "Peralta Massacre",
+        "date": {
+          "value": "1848",
+          "precision": "disputed"
+        },
+        "location": {
+          "description": "Superstition Mountains, Arizona",
+          "country": "United States",
+          "region": "Arizona",
+          "coordinates": {
+            "latitude": 33.4587,
+            "longitude": -111.3244,
+            "precision": "approximate"
+          }
+        },
+        "description": "Legend claims Mexican Peralta family mining gold in Superstition Mountains was massacred by Apache warriors defending sacred land. Allegedly hundreds killed, gold hidden or lost. Story used to explain Spanish/Mexican gold mine origins and Apache curse. Historical accuracy highly disputed—may be complete fabrication.",
+        "evidence": [
+          "Legend only",
+          "No archaeological evidence",
+          "No contemporary documentation",
+          "Questionable Peralta maps"
+        ],
+        "credibility": {
+          "rating": "debunked",
+          "factors": [
+            "No historical records",
+            "No physical evidence",
+            "Timeline inconsistencies",
+            "Likely fabricated to support mine legend"
+          ],
+          "notes": "Almost certainly fictional, but important to legend structure"
+        },
+        "featured": true
+      }
+    ]
+  },
+
+  "legends": {
+    "lost_dutchman_mine": {
+      "name": "Lost Dutchman's Gold Mine",
+      "origin": "Jacob Waltz deathbed account, 1891",
+      "description": "Fabulously rich gold mine allegedly discovered by Jacob Waltz, location lost after his death",
+      "status": "Never conclusively found",
+      "impact": "Driven over 130 years of treasure hunting, numerous deaths"
+    },
+    "apache_curse": {
+      "name": "Apache Curse",
+      "origin": "Apache spiritual traditions",
+      "description": "Mountains are sacred, dwelling of Thunder God. Curse upon those who disturb or seek treasure.",
+      "status": "Traditional Apache belief, spiritual significance",
+      "cultural_note": "This is genuine Apache spiritual belief deserving respect, not merely folklore"
+    },
+    "peralta_stones": {
+      "name": "Peralta Stones",
+      "origin": "Found 1949 by Travis Tumlinson",
+      "description": "Stone tablets allegedly showing map to mine and Peralta family history",
+      "status": "Disputed - likely modern hoax",
+      "impact": "Fueled treasure hunting despite questionable authenticity"
+    }
+  },
+
+  "theories": {
+    "treasure_exists": [
+      {
+        "name": "Real mine exists",
+        "description": "Jacob Waltz did find rich gold deposit, location genuinely lost",
+        "proponents": ["Treasure hunters"],
+        "evidence_cited": ["Waltz had gold", "Geological gold deposits exist in area"]
+      }
+    ],
+    "treasure_fake": [
+      {
+        "name": "Salted claim",
+        "description": "Waltz salted claim with gold from elsewhere to create legend",
+        "proponents": ["Some historians"],
+        "evidence_cited": ["No mine found in 130 years", "Common frontier scam"]
+      },
+      {
+        "name": "Complete fabrication",
+        "description": "Entire story fabricated after Waltz's death",
+        "proponents": ["Skeptical historians"],
+        "evidence_cited": ["Deathbed accounts unreliable", "Legend grew over time", "No contemporary evidence"]
+      }
+    ],
+    "curse": [
+      {
+        "name": "Apache spiritual protection",
+        "description": "Apache spiritual power protects sacred mountains",
+        "proponents": ["Apache traditions"],
+        "evidence_cited": ["Numerous deaths and disappearances", "Traditional belief system"],
+        "cultural_note": "Spiritual belief, not testable hypothesis"
+      },
+      {
+        "name": "Natural dangers misattributed",
+        "description": "Harsh terrain and conditions create dangers attributed to curse",
+        "proponents": ["Skeptics"],
+        "evidence_cited": ["Extreme environment", "Treasure hunter recklessness", "Confirmation bias"]
+      }
+    ]
+  },
+
+  "cultural": {
+    "indigenous": {
+      "cultures": ["Apache"],
+      "significance": "Sacred land, dwelling place of Thunder God. Spiritual significance predates all European contact.",
+      "sensitivity_note": "CRITICAL: This is Apache sacred land. Treasure hunting and disturbance violates Indigenous spiritual beliefs and territorial claims. Consult Apache Nation authorities before any activity. Respect sacred sites.",
+      "respect_guidelines": "Do not disturb sites. Do not remove items. Acknowledge Apache sovereignty and spiritual claims. Treasure hunting on sacred land is disrespectful regardless of legal status."
+    },
+    "folklore": {
+      "traditions": [
+        "Lost Dutchman legend",
+        "Spanish conquistador gold legends",
+        "Apache Thunder God traditions",
+        "Peralta massacre story"
+      ],
+      "impact": "One of America's most famous treasure legends, inspired books, films, tourism"
+    },
+    "popular_culture": {
+      "literature": [
+        "Numerous books on Lost Dutchman legend",
+        "Treasure hunting guides",
+        "Historical accounts"
+      ],
+      "film_tv": [
+        "Lust for Gold (1949)",
+        "Various documentaries",
+        "History Channel features"
+      ],
+      "other": [
+        "Lost Dutchman State Park",
+        "Annual Lost Dutchman Days festival",
+        "Tourism industry",
+        "Treasure hunting culture"
+      ]
+    }
+  },
+
+  "research": {
+    "researchers": [
+      {
+        "name": "Various treasure hunters",
+        "affiliation": "Independent",
+        "contribution": "Over 130 years of searches, mapping, geological surveys",
+        "period": "1891-present"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Arizona State Parks",
+        "focus": "Lost Dutchman State Park management, safety"
+      }
+    ],
+    "ongoing_studies": "Continued treasure hunting by individuals. Geological surveys. Search and rescue operations study safety issues."
+  },
+
+  "sources": [
+    {
+      "id": "storm-2011",
+      "type": "book",
+      "title": "Thunder God's Gold: The Lost Dutchman Mine",
+      "authors": ["Barry Storm"],
+      "publication": "Southwest Publishing",
+      "date": "2011"
+    },
+    {
+      "id": "news-capen",
+      "type": "news",
+      "title": "Jesse Capen disappearance and discovery coverage",
+      "publication": "Various Arizona news sources",
+      "date": "2009-2012"
+    },
+    {
+      "id": "apache-sources",
+      "type": "cultural",
+      "title": "Apache oral traditions and spiritual beliefs",
+      "description": "Traditional knowledge regarding Superstition Mountains sacredness"
+    }
+  ]
+}
