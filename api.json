@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/superstition-mountains",
     "maintainers": [
       {
@@ -19,108 +19,270 @@
   "phenomenon": {
     "id": "superstition-mountains",
     "name": "Superstition Mountains",
-    "aliases": [],
-    "category": "|_COUNT_|",
-    "subcategory": "Unknown",
-    "tags": [
-      "folklore",
-      "mythology"
+    "aliases": [
+      { "name": "Sierra de la Espuma", "language": "Spanish", "region": "Arizona", "meaning": "'Foam Mountain' (early Spanish-language name)" },
+      { "name": "Wi:kchsawa", "language": "Yavapai", "region": "Arizona" },
+      { "name": "The Superstitions", "region": "Arizona, United States" }
     ],
-    "status": "documented",
+    "category": "LOCATION",
+    "subcategory": "Legend-haunted mountain range",
+    "tags": [
+      "arizona",
+      "lost-mine",
+      "apache-folklore",
+      "yavapai",
+      "wilderness",
+      "lost-dutchman",
+      "disappearances",
+      "north-america"
+    ],
+    "status": "active",
     "description": {
-      "summary": "The Superstition Mountains are a rugged mountain range east of Phoenix, Arizona, that has become one of America's most legendary locations.",
-      "full": "The Superstition Mountains are a rugged mountain range east of Phoenix, Arizona, that has become one of America's most legendary locations. The mountains are most famous for the **Lost Dutchman's Gold Mine** legend, allegedly discovered by German immigrant Jacob Waltz in the 1870s and never found since his death in 1891."
+      "summary": "A rugged volcanic mountain range east of Phoenix, Arizona, famous for the Lost Dutchman's Gold Mine legend and a long sequence of disappearances and unexplained deaths within its wilderness.",
+      "full": "The Superstition Mountains are a volcanic range in Maricopa, Pinal, and Gila counties, Arizona, immediately east of the Phoenix metropolitan area. The highest summit is Mound Mountain at 6,266 feet, and the most recognizable feature is the eroded volcanic neck called Weavers Needle. The range is the legendary setting of the Lost Dutchman's Gold Mine, said to have been worked by German immigrant Jacob Waltz, who died in Phoenix on October 25, 1891. According to Yavapai and Western Apache traditions reported in 19th- and 20th-century ethnographic accounts, the range is a place of spiritual significance; one tradition collected by anthropologists describes a hole within the range as an entrance to a lower world. Beginning with the 1931 disappearance of amateur explorer Adolph Ruth, the area has accumulated a notorious record of missing persons and unexplained deaths, fueling its reputation as one of the most legend-haunted landscapes in the United States. The Superstition Wilderness was federally designated in 1939 and now encompasses 159,757 acres administered by the U.S. Forest Service."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "The English name 'Superstition Mountains' is attested in 19th-century Anglo-American usage; earlier Spanish maps called the range 'Sierra de la Espuma' ('Foam Mountain'). The Yavapai name is Wi:kchsawa.",
+      "meaning": "'Superstition' references the body of legend, fear, and Indigenous belief associated with the range as known to early settlers.",
+      "first_use": "Mid-to-late 19th century (English)"
     }
   },
   "classification": {
     "taxonomy": {
-      "category": "|_COUNT_|",
-      "type": "Unknown",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "category": "LOCATION",
+      "type": "Mountain range",
+      "subtype": "Legend-haunted wilderness",
+      "variant": "Sonoran / Basin and Range, Arizona"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "lost-dutchman-mine", "name": "Lost Dutchman's Gold Mine", "relationship": "subset", "description": "Associated lost-mine legend at the heart of the Superstitions' modern fame" },
+      { "id": "skinwalker-ranch", "name": "Skinwalker Ranch", "relationship": "similar", "description": "Another western U.S. landscape with a layered cluster of paranormal claims and Indigenous traditions" },
+      { "id": "mount-shasta", "name": "Mount Shasta", "relationship": "similar", "description": "Western U.S. mountain with rich legend, Indigenous tradition, and disappearance lore" }
+    ]
   },
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "coloration": ["red-brown volcanic rock", "buff", "ochre", "grey"],
+      "features": [
+        { "feature": "Weavers Needle", "description": "Prominent eroded volcanic remnant rising prominently from the central wilderness; the most iconic landmark of the range", "frequency": "always" },
+        { "feature": "Volcanic terrain", "description": "Range is composed of igneous rocks (tuffs and flows from the Superstition caldera complex), without sedimentary gold-bearing horizons", "frequency": "always" },
+        { "feature": "Rugged canyons and box drainages", "description": "Steep, easily disorienting terrain that has been a contributing factor in numerous documented losses", "frequency": "always" }
+      ],
+      "morphology": "Eroded mid-Tertiary volcanic field forming a rugged east-west range with peaks rising abruptly from the Sonoran Desert floor. The Superstition Wilderness covers 159,757 acres."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Disorientation of travellers", "description": "The combination of repetitive volcanic landforms, deep canyons, and lack of water has been cited in multiple deaths and disappearances", "frequency": "common", "evidence_level": "documented" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "variable",
+      "disposition": "neutral",
+      "social_structure": "unknown",
+      "habitat_preference": ["Sonoran desert mountain", "volcanic uplands", "saguaro–palo verde habitat"],
+      "patterns": [
+        "Persistent reports of missing persons in the wilderness, particularly searchers for the Lost Dutchman's Mine",
+        "Cluster of deaths involving gunshot wounds among prospectors in the mid-20th century",
+        "Continuing folklore output: maps, alleged confessions, and treasure-hunter literature"
+      ]
     }
   },
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Volcanic mountain range east of Phoenix, Arizona, spanning Maricopa, Pinal, and Gila counties.",
+      "continents": ["North America"],
+      "countries": ["United States"],
+      "regions": ["Arizona", "Sonoran Desert", "Basin and Range Province"]
     },
-    "hotspots": [],
+    "hotspots": [
+      {
+        "name": "Weavers Needle",
+        "location": {
+          "description": "Central Superstition Wilderness; iconic volcanic remnant",
+          "country": "United States",
+          "region": "Arizona",
+          "coordinates": { "latitude": 33.3833, "longitude": -111.3667 }
+        },
+        "peak_period": "1891–present",
+        "notes": "Focal point of Lost Dutchman's Mine searches and several documented disappearances."
+      },
+      {
+        "name": "Apache Junction trailheads",
+        "location": {
+          "description": "Western entry to the Superstition Wilderness",
+          "country": "United States",
+          "region": "Arizona",
+          "coordinates": { "latitude": 33.4151, "longitude": -111.5495 }
+        },
+        "peak_period": "1900s–present",
+        "notes": "Common starting point for prospectors and hikers; many missing-person cases originate here."
+      }
+    ],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "Pre-contact",
         "circa": true,
-        "source": "Traditional folklore"
-      }
+        "source": "Yavapai and Western Apache oral traditions"
+      },
+      "peak_activity_periods": [
+        { "period": "1880s–1891", "description": "Era of Jacob Waltz's reported gold discoveries and his 1891 death" },
+        { "period": "1931–1960s", "description": "Wave of high-profile disappearances and unsolved deaths involving Lost Dutchman's Mine searchers" }
+      ]
     }
   },
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "The range lies within the homeland of the Yavapai and the Western Apache, both of whom retain traditions concerning the mountains. Some 19th- and early 20th-century ethnographic reports describe Apache traditions associating the range with a portal or opening to a lower world.",
+      "earliest_accounts": "Spanish-period maps used the name Sierra de la Espuma. The English name 'Superstition Mountains' is in use by the late 19th century in U.S. military and territorial documents.",
+      "folklore_connections": "Connected to the wider Southwestern lost-mine tradition (Pegleg Smith Mine, Lost Adams Diggings) and to Apache/Yavapai sacred-mountain traditions."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1845", "event": "Jacob Waltz born in Württemberg (Germany), per his 1848 affidavit (\"about 38 years old\")", "significance": "Establishes the historical figure behind the Dutchman legend", "source": "U.S. naturalization records cited in Wikipedia (Jacob Waltz)" },
+      { "date": "1891-10-25", "event": "Jacob Waltz dies in Phoenix while being cared for by Julia Thomas", "significance": "Triggers the Lost Dutchman's Gold Mine legend; Thomas is the source of the deathbed-directions account", "source": "Wikipedia, 'Lost Dutchman's Gold Mine'" },
+      { "date": "1931-06-14", "event": "Adolph Ruth disappears while searching for the mine; his skull, with two reported holes interpreted as bullet wounds, is recovered approximately six months later", "significance": "First nationally publicized disappearance in the Superstitions; helped establish the range's deadly reputation", "source": "Wikipedia, 'Lost Dutchman's Gold Mine'" },
+      { "date": "1939", "event": "Superstition Wilderness designated by the U.S. Forest Service", "significance": "Formal protection of 159,757 acres", "source": "U.S. Forest Service" },
+      { "date": "1947", "event": "James A. Cravey reported missing after a helicopter drop into the range; remains later found", "significance": "High-profile mid-20th-century disappearance", "source": "Wikipedia, 'Lost Dutchman's Gold Mine'" }
+    ],
+    "modern_era": "The Superstitions remain a popular hiking, climbing, and treasure-hunting destination. The Superstition Mountain Museum in Apache Junction, Arizona, curates legend and history. Search-and-rescue operations continue every year, and Maricopa County records list dozens of fatalities in the wilderness since the 1960s."
   },
   "sightings": {
     "statistics": {
       "total_documented": 0,
       "verified": 0,
       "disputed": 0,
-      "debunked": 0
+      "debunked": 0,
+      "date_range": { "earliest": "1891", "latest": "2026" }
     },
-    "notable": [],
+    "notable": [
+      {
+        "id": "superstition-1891-waltz-death",
+        "name": "Death of Jacob Waltz",
+        "date": { "value": "1891-10-25", "precision": "exact" },
+        "location": {
+          "description": "Phoenix, Arizona Territory; deathbed account referenced the Superstition Mountains east of the city",
+          "country": "United States",
+          "region": "Arizona",
+          "locality": "Phoenix",
+          "coordinates": { "latitude": 33.4484, "longitude": -112.0740, "precision": "approximate" }
+        },
+        "witnesses": { "count": 1, "types": ["Julia Thomas (caretaker)"], "credibility_factors": ["Single source; no contemporary corroboration of the mine's location"] },
+        "description": "Jacob Waltz, a German-immigrant farmer and small-scale miner, died at the home of Julia Thomas in Phoenix following an illness aggravated by the catastrophic 1891 flood. Thomas later stated that Waltz, on his deathbed, described the location of a rich gold mine in the Superstition Mountains. No physical mine matching the descriptions was ever found.",
+        "credibility": { "rating": "low", "factors": ["Founding event of the Lost Dutchman tradition", "Geological objection: the volcanic Superstitions do not host primary gold deposits"], "notes": "Foundational case for the Lost Dutchman's Mine legend and for the Superstitions' broader reputation." },
+        "sources": ["Wikipedia, 'Lost Dutchman's Gold Mine'", "Granger, B. (1977), 'A Motif Index for Lost Mines and Treasures'"],
+        "featured": true
+      },
+      {
+        "id": "superstition-1931-ruth",
+        "name": "Disappearance of Adolph Ruth",
+        "date": { "value": "1931-06-14", "precision": "approximate" },
+        "location": {
+          "description": "Superstition Wilderness, central Arizona",
+          "country": "United States",
+          "region": "Arizona",
+          "coordinates": { "latitude": 33.4500, "longitude": -111.3500, "precision": "approximate" }
+        },
+        "witnesses": { "count": 0, "types": ["Search parties (post-disappearance)"], "credibility_factors": ["Skull recovered with two reported bullet-like holes"] },
+        "description": "Amateur explorer Adolph Ruth entered the Superstitions in June 1931 carrying maps reputedly tracing the Lost Dutchman's Mine. He never returned. About six months later, his skull was recovered with two holes that examiners reported as bullet wounds; the rest of his remains were located later. The case was reported widely in U.S. newspapers and is the first major modern incident anchoring the range's reputation as deadly.",
+        "credibility": { "rating": "medium", "factors": ["Documented disappearance with recovered remains", "Cause of death contested (homicide vs. natural)"], "notes": "Foundational modern incident in the Superstitions' missing-persons record." },
+        "sources": ["Wikipedia, 'Lost Dutchman's Gold Mine'"],
+        "featured": true
+      }
+    ],
     "database_path": "./sightings/"
   },
   "evidence": {
-    "physical": [],
-    "photographic": [],
-    "video": [],
-    "audio": [],
-    "trace": []
+    "physical": [
+      {
+        "id": "superstition-evidence-ruth-remains",
+        "type": "human remains",
+        "name": "Adolph Ruth's skull and remains",
+        "date": "1931-12 (skull recovered)",
+        "description": "Skull of Adolph Ruth recovered approximately six months after his disappearance, with two openings reported by examiners as consistent with bullet wounds.",
+        "location": "Superstition Wilderness, Arizona",
+        "status": "disputed",
+        "analysis": "Cause of death contested between gunshot homicide and natural causes/animal damage; case never closed.",
+        "source": "Wikipedia, 'Lost Dutchman's Gold Mine'"
+      }
+    ],
+    "documentary": [
+      {
+        "id": "superstition-evidence-waltz-affidavit",
+        "type": "archival document",
+        "name": "Jacob Waltz 1848 affidavit",
+        "date": "1848",
+        "description": "Affidavit in which Waltz declares himself to be approximately 38 years old, used by historians to fix his birthdate near 1810.",
+        "status": "verified",
+        "analysis": "Primary historical document establishing Waltz as a real person.",
+        "source": "U.S. naturalization records cited in Wikipedia 'Jacob Waltz'"
+      }
+    ]
   },
   "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
+    "paranormal": [
+      {
+        "name": "Apache 'lower world' tradition",
+        "description": "Some 19th- and 20th-century ethnographic accounts record an Apache tradition that an entrance to a lower world lies within the range, and that disturbances from this opening drive the violent dust storms of the Phoenix basin.",
+        "proponents": ["Reported in early ethnographic compilations cited by the Wikipedia article on the Superstition Mountains"],
+        "evidence_cited": ["Apache and Yavapai oral traditions"]
+      }
+    ],
+    "scientific": [
+      {
+        "name": "No primary gold geology",
+        "description": "Geological surveys argue the Superstitions are mid-Tertiary volcanic rocks unlikely to host primary lode gold consistent with the Dutchman legend; Waltz, working as a placer miner, is more plausibly tied to gold from the Vulture Mine area than to a Superstition lode.",
+        "proponents": ["John D. Wilburn (geologist)"],
+        "evidence_cited": ["Igneous (volcanic) lithology of the range", "Absence of documented productive lode claims in the range"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Lost-mine folklore complex",
+        "description": "Folklorist Byrd Granger documented at least 62 variants of the Lost Dutchman's story, treating it as a regional folklore complex blending three independent legend strands rather than a single historical mine.",
+        "proponents": ["Byrd Granger"],
+        "evidence_cited": ["Granger, 'A Motif Index for Lost Mines and Treasures' (1977)"]
+      }
+    ]
   },
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": ["Yavapai sacred-landscape traditions", "Western Apache traditions of the range"],
+      "stories": ["Lost Dutchman's Gold Mine", "Adolph Ruth disappearance", "Peralta family mine legend"],
+      "beliefs": "The mountains are widely treated, in popular culture, as a place where unprepared searchers can be killed by terrain, heat, and (in folklore) hostile guardians. Indigenous traditions stress respect for the range as a place of spiritual power."
+    },
+    "indigenous": {
+      "cultures": ["Yavapai", "Western Apache"],
+      "significance": "The range is part of long-standing Yavapai and Apache cultural geography. Treatments that frame the mountains exclusively through the Dutchman legend tend to flatten Indigenous knowledge of the area.",
+      "sensitivity_note": "Indigenous traditions associated with the range predate and are distinct from the prospector folklore.",
+      "respect_guidelines": "Consult Yavapai and San Carlos / Tonto Apache cultural offices on questions of traditional knowledge; do not appropriate or commercialize ceremonies or sacred-place names."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
+      "literature": [
+        "Lust for Gold (1949 film tie-in writings) — about Jacob Waltz",
+        "Robert Sikorsky, Fool's Gold: The Lost Dutchman Mine (1983)",
+        "Tom Kollenborn, columns and historical writing on the Superstitions"
+      ],
+      "film_tv": [
+        "Lust for Gold (1949)",
+        "The Lost Dutchman (various documentary treatments)"
+      ],
+      "other": [
+        "Superstition Mountain Museum, Apache Junction, Arizona",
+        "Annual Lost Dutchman Days festival, Apache Junction"
+      ]
     }
   },
   "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
+    "researchers": [
+      { "name": "Byrd Granger", "affiliation": "University of Arizona (folklore)", "contribution": "Catalogued 62 variants of the Lost Dutchman story in 'A Motif Index for Lost Mines and Treasures'", "period": "1970s" },
+      { "name": "John D. Wilburn", "affiliation": "Independent (geology)", "contribution": "Geological critique of the Lost Dutchman's Mine legend", "period": "20th century" }
+    ],
+    "organizations": [
+      { "name": "Superstition Mountain Historical Society", "url": "https://www.superstitionmountainmuseum.org", "focus": "Curation of legend, history, and artefacts of the Superstition Mountains" }
+    ],
+    "ongoing_studies": "Continuing search-and-rescue, archaeological, and folklore work; the Superstition Mountain Museum publishes ongoing histories of disappearances and treasure-hunting expeditions."
   },
-  "sources": []
+  "sources": [
+    { "id": "wikipedia-superstition-mountains", "type": "website", "title": "Superstition Mountains", "publication": "English Wikipedia", "url": "https://en.wikipedia.org/wiki/Superstition_Mountains", "accessed": "2026-05-07" },
+    { "id": "wikipedia-lost-dutchman", "type": "website", "title": "Lost Dutchman's Gold Mine", "publication": "English Wikipedia", "url": "https://en.wikipedia.org/wiki/Lost_Dutchman%27s_Gold_Mine", "accessed": "2026-05-07" },
+    { "id": "granger-1977", "type": "book", "title": "A Motif Index for Lost Mines and Treasures Applied to Redaction of Arizona Legends", "authors": ["Byrd Granger"], "publication": "University of Arizona", "date": "1977" },
+    { "id": "sikorsky-1983", "type": "book", "title": "Fool's Gold: The Lost Dutchman Mine", "authors": ["Robert Sikorsky"], "publication": "Golden West Publishers", "date": "1983" }
+  ]
 }

@@ -1,487 +1,207 @@
 # Superstition Mountains
 
-> *"The Thunder God dwells there. Those who disturb the mountains will not return."*
-> — Apache tradition
+> A rugged volcanic mountain range east of Phoenix, Arizona, famous for the Lost Dutchman's Gold Mine legend and a long sequence of disappearances and unexplained deaths within its wilderness.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Documented Deaths](https://img.shields.io/badge/deaths-50+-red)]()
-[![Status](https://img.shields.io/badge/status-active-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-active-blue)
 
 ---
-
-## ⚠️ Cultural Sensitivity Notice
-
-**APACHE SACRED LAND**: The Superstition Mountains are sacred to Apache nations. This repository documents legends and incidents with respect for Indigenous spiritual beliefs and territorial claims. **Consult Apache Nation authorities before any on-site investigation or activity.** Treasure hunting on sacred land is disrespectful regardless of legal status.
-
----
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `superstition-mountains` |
-| **Category** | LOCATION (Legends / Cursed Location) |
-| **Location** | Arizona, USA (east of Phoenix) |
-| **Area** | ~650 km² |
-| **Documented Deaths** | 50+ |
-| **Status** | Active |
+| **Category** | LOCATION |
+| **Subcategory** | Legend-haunted mountain range |
+| **First recorded** | 1845 |
+| **Primary range** | Volcanic mountain range east of Phoenix, Arizona, spanning Maricopa, Pinal, and Gila counties |
+| **Status** | active |
 
 ---
-
 ## Overview
 
-The Superstition Mountains are a rugged mountain range east of Phoenix, Arizona, that has become one of America's most legendary locations. The mountains are most famous for the **Lost Dutchman's Gold Mine** legend, allegedly discovered by German immigrant Jacob Waltz in the 1870s and never found since his death in 1891.
-
-**Apache traditions** consider the area sacred land and the dwelling place of the Thunder God, with warnings of curses upon those who disturb it.
-
-The area has been the site of numerous disappearances, mysterious deaths, and treasure hunter tragedies, including recent cases like **Jesse Capen (2009)**. The convergence of Spanish conquistador legends, the Peralta massacre myth, Apache spiritual beliefs, and modern missing persons cases creates a complex tapestry of mystery, tragedy, and cultural significance.
+The Superstition Mountains are a volcanic range in Maricopa, Pinal, and Gila counties, Arizona, immediately east of the Phoenix metropolitan area. The highest summit is Mound Mountain at 6,266 feet, and the most recognizable feature is the eroded volcanic neck called Weavers Needle. The range is the legendary setting of the Lost Dutchman's Gold Mine, said to have been worked by German immigrant Jacob Waltz, who died in Phoenix on October 25, 1891. According to Yavapai and Western Apache traditions reported in 19th- and 20th-century ethnographic accounts, the range is a place of spiritual significance; one tradition collected by anthropologists describes a hole within the range as an entrance to a lower world. Beginning with the 1931 disappearance of amateur explorer Adolph Ruth, the area has accumulated a notorious record of missing persons and unexplained deaths, fueling its reputation as one of the most legend-haunted landscapes in the United States. The Superstition Wilderness was federally designated in 1939 and now encompasses 159,757 acres administered by the U.S. Forest Service.
 
 ---
+## Names & Aliases
 
-## Location
+| Name | Origin | Meaning |
+|---|---|---|
+| Sierra de la Espuma | Spanish / Arizona | 'Foam Mountain' (early Spanish-language name) |
+| Wi:kchsawa | Yavapai / Arizona |  |
+| The Superstitions | Arizona, United States |  |
 
-**Coordinates**: 33.4587°N, 111.3244°W  
-**Region**: Central Arizona, Sonoran Desert  
-**Nearest City**: Apache Junction (gateway town)  
-**Area**: Approximately 650 km² (250 sq mi)  
-**Elevation**: 610-1,842 meters (Superstition Peak)
+## Etymology
 
-### Environmental Hazards
-
-The Superstition Mountains are **extremely dangerous** terrain:
-
-- ⚠️ **Extreme heat**: Temperatures exceed 120°F (49°C) in summer
-- ⚠️ **Dehydration**: Limited water sources, rapid fluid loss
-- ⚠️ **Flash floods**: Deadly during monsoon season
-- ⚠️ **Wildlife**: Rattlesnakes, scorpions, mountain lions
-- ⚠️ **Navigation**: Easy to get lost, limited cell service
-- ⚠️ **Terrain**: Steep cliffs, unstable rocks, canyons
-
-**Many deaths attributed to "curse" are actually harsh desert survival conditions.**
+- **Origin**: The English name 'Superstition Mountains' is attested in 19th-century Anglo-American usage; earlier Spanish maps called the range 'Sierra de la Espuma' ('Foam Mountain'). The Yavapai name is Wi:kchsawa.
+- **Meaning**: 'Superstition' references the body of legend, fear, and Indigenous belief associated with the range as known to early settlers.
+- **First use**: Mid-to-late 19th century (English)
 
 ---
+## Related Phenomena
 
-## The Lost Dutchman Legend
-
-### Jacob Waltz (1810-1891)
-
-**"The Dutchman"** (actually German immigrant, "Deutsch" misheard as "Dutch")
-
-**Timeline**:
-- **1870s**: Waltz allegedly discovers rich gold mine in Superstition Mountains
-- **1891**: Dies in Phoenix, gives cryptic deathbed directions to mine
-- **1891-present**: Thousands search for mine, none successful
-
-### The Legend
-
-Jacob Waltz possessed high-grade gold ore and claimed to know secret mine location. On his deathbed, he provided vague directions to caretaker Julia Thomas. The mine has never been conclusively found despite:
-
-- 130+ years of searching
-- Thousands of treasure hunters
-- Advanced technology (metal detectors, ground-penetrating radar)
-- Geological surveys
-- 50+ documented deaths in pursuit
-
-### Did the Mine Ever Exist?
-
-**Arguments FOR**:
-- ✅ Waltz definitely had gold
-- ✅ Geological gold deposits exist in area
-- ✅ Consistent legend elements
-
-**Arguments AGAINST**:
-- ❌ No mine found in 130 years
-- ❌ Deathbed accounts notoriously unreliable
-- ❌ Waltz may have salted claim (common frontier scam)
-- ❌ Gold could have come from elsewhere
-- ❌ Legend grew and changed over time
-
-**Consensus**: Uncertain. Waltz had gold, but whether from secret mine or other source remains unknown.
+- [Lost Dutchman's Gold Mine](../lost-dutchman-mine/) — _subset_: Associated lost-mine legend at the heart of the Superstitions' modern fame
+- [Skinwalker Ranch](../skinwalker-ranch/) — _similar_: Another western U.S. landscape with a layered cluster of paranormal claims and Indigenous traditions
+- [Mount Shasta](../mount-shasta/) — _similar_: Western U.S. mountain with rich legend, Indigenous tradition, and disappearance lore
 
 ---
+## Physical Description
 
-## Apache Sacred Land
+- **Coloration**: red-brown volcanic rock, buff, ochre, grey
+- **Morphology**: Eroded mid-Tertiary volcanic field forming a rugged east-west range with peaks rising abruptly from the Sonoran Desert floor. The Superstition Wilderness covers 159,757 acres.
 
-### Thunder God Tradition
+### Features
 
-**Apache belief**: The Superstition Mountains are the dwelling place of the **Thunder God** and are sacred, dangerous territory.
+| Feature | Description | Frequency |
+|---|---|---|
+| Weavers Needle | Prominent eroded volcanic remnant rising prominently from the central wilderness; the most iconic landmark of the range | always |
+| Volcanic terrain | Range is composed of igneous rocks (tuffs and flows from the Superstition caldera complex), without sedimentary gold-bearing horizons | always |
+| Rugged canyons and box drainages | Steep, easily disorienting terrain that has been a contributing factor in numerous documented losses | always |
 
-**Spiritual significance**:
-- Sacred site predating all European contact
-- Territorial and spiritual importance to Apache nations
-- Warnings against disturbing the mountains
-- Belief in protective spiritual power
+## Reported Abilities
 
-### The "Curse"
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Disorientation of travellers | The combination of repetitive volcanic landforms, deep canyons, and lack of water has been cited in multiple deaths and disappearances | common | documented |
 
-Apache traditions warn that those who disturb the mountains—especially seeking gold—will face dire consequences.
+## Behavior
 
-**Perspective matters**:
-- To Apache: Genuine spiritual protection of sacred land
-- To skeptics: Natural dangers misattributed to supernatural
-- To treasure hunters: Obstacle to ignore (disrespectfully)
-
-**Deaths interpreted as "curse" may be**:
-1. Harsh environmental conditions (heat, dehydration, falls)
-2. Treasure hunter recklessness driven by greed
-3. Confirmation bias (deaths noticed, survivals ignored)
-4. **OR** genuine spiritual consequences of violating sacred land (Apache view)
+- **Activity**: variable
+- **Disposition**: neutral
+- **Social structure**: unknown
+- **Habitat**: Sonoran desert mountain, volcanic uplands, saguaro–palo verde habitat
 
 ---
+## Distribution
 
+Volcanic mountain range east of Phoenix, Arizona, spanning Maricopa, Pinal, and Gila counties.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Weavers Needle | Arizona, United States |  | 1891–present |
+| Apache Junction trailheads | Arizona, United States |  | 1900s–present |
+
+---
 ## Historical Timeline
 
-### Pre-Contact Era
+| Date | Event | Significance |
+|---|---|---|
+| 1845 | Jacob Waltz born in Württemberg (Germany), per his 1848 affidavit ("about 38 years old") | Establishes the historical figure behind the Dutchman legend |
+| 1891-10-25 | Jacob Waltz dies in Phoenix while being cared for by Julia Thomas | Triggers the Lost Dutchman's Gold Mine legend; Thomas is the source of the deathbed-directions account |
+| 1931-06-14 | Adolph Ruth disappears while searching for the mine; his skull, with two reported holes interpreted as bullet wounds, is recovered approximately six months later | First nationally publicized disappearance in the Superstitions; helped establish the range's deadly reputation |
+| 1939 | Superstition Wilderness designated by the U.S. Forest Service | Formal protection of 159,757 acres |
+| 1947 | James A. Cravey reported missing after a helicopter drop into the range; remains later found | High-profile mid-20th-century disappearance |
 
-**Apache oral traditions** (centuries old): Mountains sacred, dwelling of Thunder God, dangerous to outsiders.
+---
+## Notable Sightings
+
+### Death of Jacob Waltz ⭐
+> **Date**: 1891-10-25  
+> **Location**: Phoenix, Arizona Territory; deathbed account referenced the Superstition Mountains east of the city  
+> **Witnesses**: 1 (Julia Thomas (caretaker))  
+Jacob Waltz, a German-immigrant farmer and small-scale miner, died at the home of Julia Thomas in Phoenix following an illness aggravated by the catastrophic 1891 flood. Thomas later stated that Waltz, on his deathbed, described the location of a rich gold mine in the Superstition Mountains. No physical mine matching the descriptions was ever found.
+**Credibility**: low — Foundational case for the Lost Dutchman's Mine legend and for the Superstitions' broader reputation.
+**Sources**: Wikipedia, 'Lost Dutchman's Gold Mine'; Granger, B. (1977), 'A Motif Index for Lost Mines and Treasures'
 
 ---
 
-### Spanish Era (1540s-1700s)
-
-**1540s**: Coronado's expedition searches for Seven Cities of Gold in region  
-**1500s-1700s**: Spanish conquistador legends of gold in Arizona mountains
-
----
-
-### 1848 — Peralta Massacre (DISPUTED)
-
-**Legend**: Mexican Peralta family mining gold in Superstitions massacred by Apache defending sacred land. Hundreds killed, gold hidden or lost.
-
-**Status**: Almost certainly **fabricated**
-- No historical records
-- No archaeological evidence
-- Timeline inconsistencies
-- Likely created to support mine legend and explain Apache "curse"
+### Disappearance of Adolph Ruth ⭐
+> **Date**: 1931-06-14  
+> **Location**: Superstition Wilderness, central Arizona  
+> **Witnesses**: 0 (Search parties (post-disappearance))  
+Amateur explorer Adolph Ruth entered the Superstitions in June 1931 carrying maps reputedly tracing the Lost Dutchman's Mine. He never returned. About six months later, his skull was recovered with two holes that examiners reported as bullet wounds; the rest of his remains were located later. The case was reported widely in U.S. newspapers and is the first major modern incident anchoring the range's reputation as deadly.
+**Credibility**: medium — Foundational modern incident in the Superstitions' missing-persons record.
+**Sources**: Wikipedia, 'Lost Dutchman's Gold Mine'
 
 ---
 
-### 1870s-1891 — Jacob Waltz Era ⭐
 
-**1870s**: Waltz allegedly discovers gold mine  
-**1891**: Waltz dies, gives cryptic directions, launches legend
+## Evidence
 
----
+### Physical
 
-### 1931 — Adolph Ruth Death
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Adolph Ruth's skull and remains | 1931-12 (skull recovered) | Skull of Adolph Ruth recovered approximately six months after his disappearance, with two openings reported by examiners as consistent with bullet wounds. | disputed |
+### Documentary
 
-Treasure hunter found dead (decapitated by animal scavengers, not murder). Death fueled curse legend despite natural explanation.
-
----
-
-### 1949 — Peralta Stones
-
-Travis Tumlinson claims to find stone tablets showing map to mine. **Status**: Almost certainly modern hoax.
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Jacob Waltz 1848 affidavit | 1848 | Affidavit in which Waltz declares himself to be approximately 38 years old, used by historians to fix his birthdate near 1810. | verified |
 
 ---
-
-### 2009-2012 — Jesse Capen Case ⭐
-
-**December 2009**: Jesse Capen, 35, from Denver vanishes while searching for Lost Dutchman  
-**November 2012**: Remains discovered by hiker  
-**Ruling**: Accidental death (likely fall or exposure)
-
-**Significance**: Modern case illustrating ongoing danger. Capen was experienced outdoorsman who researched legend extensively, yet still died.
-
----
-
-## Documented Deaths & Disappearances
-
-### Statistics
-
-| Category | Count |
-|----------|-------|
-| **Total documented deaths** | 50+ |
-| **Total disappearances** | 30+ |
-| **Treasure hunters** | ~40 |
-| **Hikers (non-treasure)** | ~25 |
-| **Time period** | 1848-present |
-
-### Notable Cases
-
-**1931**: Adolph Ruth (found dead, headless—scavengers)  
-**1940s-1960s**: Multiple treasure hunter deaths during boom period  
-**2009**: Jesse Capen disappearance  
-**2012**: Capen remains found  
-**Ongoing**: Regular search and rescue operations
-
-### Causes
-
-Most deaths attributable to:
-1. **Heat exposure / dehydration** (most common)
-2. **Falls** from cliffs and unstable terrain
-3. **Flash floods** during monsoons
-4. **Getting lost** / navigation errors
-5. **Inadequate preparation** driven by treasure obsession
-
-**"Curse" deaths are typically explained by harsh desert conditions and reckless treasure hunting behavior.**
-
----
-
-## The Legends
-
-### 1. Lost Dutchman's Gold Mine ⭐
-
-**Status**: Never found  
-**Impact**: 130+ years of treasure hunting, tourism industry, numerous deaths  
-**Reality**: Unknown if real mine exists
-
----
-
-### 2. Apache Curse
-
-**Status**: Traditional spiritual belief  
-**Impact**: Attributed to deaths, adds mystique  
-**Reality**: Spiritual belief deserving respect; deaths have natural explanations
-
----
-
-### 3. Peralta Massacre
-
-**Status**: Almost certainly fictional  
-**Impact**: Supports mine legend, explains Spanish origins  
-**Reality**: No historical evidence whatsoever
-
----
-
-### 4. Peralta Stones
-
-**Status**: Likely modern hoax (1949)  
-**Impact**: Fueled treasure hunting despite questionable authenticity  
-**Reality**: Probably created to perpetuate legend
-
----
-
 ## Theories & Explanations
 
-### About the Mine
+### Paranormal / Cryptozoological
 
-**Theory 1: Real Mine Exists**
-- Waltz did find rich gold deposit
-- Location genuinely lost
-- Geological possibility
+**Apache 'lower world' tradition** _(Reported in early ethnographic compilations cited by the Wikipedia article on the Superstition Mountains)_
 
-**Theory 2: Salted Claim**
-- Waltz salted claim with gold from elsewhere
-- Created legend intentionally
-- Common frontier scam
+Some 19th- and 20th-century ethnographic accounts record an Apache tradition that an entrance to a lower world lies within the range, and that disturbances from this opening drive the violent dust storms of the Phoenix basin.
 
-**Theory 3: Complete Fabrication**
-- Story invented after Waltz's death
-- Grew from small truth to full legend
-- No mine ever existed
+### Scientific
 
----
+**No primary gold geology** _(John D. Wilburn (geologist))_
 
-### About the Deaths
+Geological surveys argue the Superstitions are mid-Tertiary volcanic rocks unlikely to host primary lode gold consistent with the Dutchman legend; Waltz, working as a placer miner, is more plausibly tied to gold from the Vulture Mine area than to a Superstition lode.
 
-**Apache Spiritual View**:
-- Sacred land protected by Thunder God
-- Spiritual consequences for violation
-- Greed and disrespect punished
+### Skeptical
 
-**Skeptical View**:
-- Harsh desert environment
-- Treasure hunter recklessness
-- Natural dangers misattributed to curse
-- Confirmation bias
+**Lost-mine folklore complex** _(Byrd Granger)_
 
-**Both can be true**: Environment is genuinely dangerous AND sacred land deserves respect.
+Folklorist Byrd Granger documented at least 62 variants of the Lost Dutchman's story, treating it as a regional folklore complex blending three independent legend strands rather than a single historical mine.
 
----
 
-## Cultural Impact
+## Indigenous Perspectives
 
-### Apache Nations
+> ⚠️ **Indigenous traditions associated with the range predate and are distinct from the prospector folklore.**
 
-**Spiritual significance**:
-- Mountains sacred for centuries
-- Thunder God dwelling place
-- Territorial and spiritual claims
-- Ongoing assertion of rights
+**Cultures**: Yavapai, Western Apache
 
-**Modern context**:
-- Treasure hunting violates sacred beliefs
-- Disrespect for Indigenous sovereignty
-- Cultural appropriation of legends
-- Need for consultation and respect
+The range is part of long-standing Yavapai and Apache cultural geography. Treatments that frame the mountains exclusively through the Dutchman legend tend to flatten Indigenous knowledge of the area.
+
+_Guidelines: Consult Yavapai and San Carlos / Tonto Apache cultural offices on questions of traditional knowledge; do not appropriate or commercialize ceremonies or sacred-place names._
+
+## Popular Culture
+
+**Literature**: Lust for Gold (1949 film tie-in writings) — about Jacob Waltz; Robert Sikorsky, Fool's Gold: The Lost Dutchman Mine (1983); Tom Kollenborn, columns and historical writing on the Superstitions
+
+**Film / TV**: Lust for Gold (1949); The Lost Dutchman (various documentary treatments)
+
+**Other**: Superstition Mountain Museum, Apache Junction, Arizona; Annual Lost Dutchman Days festival, Apache Junction
 
 ---
+## Research
 
-### American Folklore
+### Researchers
 
-**Lost Dutchman legend**:
-- One of America's most famous treasure legends
-- Inspired countless books, films, searches
-- Symbol of frontier gold rush mythology
-- Tourism industry foundation
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Byrd Granger | University of Arizona (folklore) | Catalogued 62 variants of the Lost Dutchman story in 'A Motif Index for Lost Mines and Treasures' | 1970s |
+| John D. Wilburn | Independent (geology) | Geological critique of the Lost Dutchman's Mine legend | 20th century |
 
----
+### Organizations
 
-### Popular Culture
+- [Superstition Mountain Historical Society](https://www.superstitionmountainmuseum.org) — Curation of legend, history, and artefacts of the Superstition Mountains
 
-**Books**: Numerous treasure hunting guides and historical accounts  
-**Films**: *Lust for Gold* (1949), various documentaries  
-**Tourism**: Lost Dutchman State Park, festivals, tours  
-**Media**: History Channel features, paranormal shows
+Continuing search-and-rescue, archaeological, and folklore work; the Superstition Mountain Museum publishes ongoing histories of disappearances and treasure-hunting expeditions.
 
 ---
+## Sources
 
-## Modern Situation
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-### Lost Dutchman State Park
 
-- Established to protect area
-- Provides safe hiking access
-- Warns against treasure hunting
-- Regular search and rescue operations
+## How to Report a Sighting
 
-### Ongoing Treasure Hunting
-
-Despite warnings and deaths, people continue searching:
-- Modern metal detectors and technology
-- GPS mapping and geological surveys
-- Online treasure hunting communities
-- Illegal digging and disturbance
-
-### Safety Concerns
-
-Arizona authorities regularly rescue or recover:
-- Lost hikers
-- Dehydrated treasure hunters
-- Injured climbers
-- Remains of missing persons
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## Ethical Considerations
-
-### Respect for Apache Sacred Land
-
-**Critical points**:
-1. Mountains are sacred to Apache people
-2. Treasure hunting violates spiritual beliefs
-3. Indigenous sovereignty should be respected
-4. "Curse" is spiritual protection, not superstition
-
-### Environmental Protection
-
-- Digging damages fragile desert ecosystem
-- Historical sites destroyed by searchers
-- Wildlife habitat disrupted
-- Erosion accelerated
-
-### Personal Safety
-
-- Numerous preventable deaths
-- Search and rescue costs
-- Family tragedies
-- Greed overriding common sense
-
----
-
-## Visiting Responsibly
-
-### If You Must Visit
-
-✅ **DO**:
-- Visit Lost Dutchman State Park
-- Stay on marked trails
-- Bring abundant water (1 gallon per person per day minimum)
-- Tell others your plans
-- Check weather forecasts (monsoon season deadly)
-- Respect sacred sites
-- Acknowledge Apache spiritual significance
-
-❌ **DON'T**:
-- Treasure hunt (illegal in many areas)
-- Go alone
-- Underestimate heat
-- Disturb archaeological sites
-- Disrespect Indigenous beliefs
-- Ignore warnings
-
-### Harsh Reality
-
-**The environment will kill you** if you're unprepared. This isn't metaphor. Desert conditions, navigation difficulty, and extreme heat have killed experienced outdoorspeople.
-
-**If you're motivated by treasure greed, stay home.** The mine likely doesn't exist, and even if it did, your life is worth more.
-
----
-
-## Critical Analysis
-
-### What We Know
-
-✅ Superstition Mountains are real, extremely dangerous terrain  
-✅ Jacob Waltz existed and had gold  
-✅ Apache sacred land traditions are genuine and deserve respect  
-✅ 50+ documented deaths over 175+ years  
-✅ Lost Dutchman legend drives tourism and tragedy  
-
-### What's Uncertain
-
-❓ Did Waltz's mine ever exist?  
-❓ If real, where is it?  
-❓ Peralta massacre happened? (Probably not)  
-❓ Peralta stones authentic? (Probably not)  
-
-### What's Explained
-
-🔍 Most deaths attributable to harsh environment  
-🔍 Treasure hunter recklessness major factor  
-🔍 "Curse" can be explained naturally  
-🔍 Legend perpetuated by confirmation bias  
-
----
-
-## Lessons
-
-1. **Greed is dangerous**: Many deaths driven by treasure obsession
-2. **Respect Indigenous sacred land**: Apache beliefs deserve acknowledgment
-3. **Environment is deadly**: Desert conditions kill the unprepared
-4. **Legends persist despite evidence**: 130 years of failure doesn't stop searchers
-5. **Cultural significance > treasure**: Spiritual and historical value exceeds gold
-
----
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Direct Access
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/superstition-mountains/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Key Sources
-- Apache oral traditions and spiritual teachings
-- Historical records of Jacob Waltz
-- Arizona search and rescue records
-- News coverage of disappearances and deaths
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-**Respect Apache Sacred Land • Don't Treasure Hunt • Stay Safe**
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
